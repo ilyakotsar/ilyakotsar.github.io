@@ -1,11 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-::selection {
-    background-color: #6366f13f;
-}
-a:focus-visible {
-    outline: solid 1px #6366f1;
-    outline-offset: 1px;
-}
